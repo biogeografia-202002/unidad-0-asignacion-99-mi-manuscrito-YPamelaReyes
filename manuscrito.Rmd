@@ -8,11 +8,11 @@ output:
     template: svm-latex-ms.tex
     number_sections: true
 title: | 
-        | Mis hormigas
-        | Subtítulo
+        | Diversidad, ecología espacial y ordenación de la familia Euphorbeaceae en Isla Barro Colorado 
+        | Panamá (2010)
         | Subtítulo
 author:
-- name: Tali tali tali
+- name: Yeiny Pamela Reyes Z.
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
 abstract: "Mi resumen"
 keywords: "palabra clave 1, palabra clave 2"
@@ -31,7 +31,16 @@ header-includes:
 ---
 
 # Introducción
-
+ Los censos o estudios de diversidad y abundancias de familias o especies  (fauna/flora) son de suma importancia ya que  nos ayudan a obtener información, copilarla, analizar, compara y evlaluar, datos que puede ser publicados o usados como referencias para fines de investigacion futura.
+ 
+ La isla Barro Colorado, ubicada en el canal de Panamá, monumento natutal protegido desde 1997, posee las condiciones perfectas para un sin número de estudios orientados a la flora o la fanua de dicho lugar,esto, combinado con las facilidades que el Instituto de investigaciones tropicales Smithsonian ofrece para los investigadores que deciden estudiar la isla, hacen una combinacion perfecta.
+ Un grupo de cientificos decidieron estudiar....hecstareas .. tareas.... entre ellas euphorbeaceae...... 
+ 
+ OJO PAMELA!!!  ( En resultados recuerda resaltar si la abundancia de especies de euphorbeacia resulta comun,("normla")en panamá  a pesar de ser intertropical, cuando su mayor distribucuin es tropical)
+ 
+ Euphorbiaceae es una familia cosmopólita aunque con mayor concentración en regiones tropicales (Heywood, 1985),a menudo se les cita como una evolucion convergente de las cactaceas por el parentezco que algunas especies presentan con esta familia.
+ Posee
+  ....biología de las especies
 \ldots
 
 # Metodología
@@ -39,6 +48,7 @@ header-includes:
 \ldots
 
 # Resultados
+ 
 
 \ldots
 
