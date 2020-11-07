@@ -16,7 +16,7 @@ author:
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
 abstract: "Mi resumen"
 keywords: "Euphorbiaceae, Abundancia/diversidad"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
+date: "November 06, 2020"
 geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 11pt
@@ -30,9 +30,7 @@ header-includes:
   \newcommand{\elandscape}{\end{landscape}}
 ---
 
-```{r, include=FALSE}
-source("análisis.R", local = knitr::knit_global())
-```
+
 
 
 # Introducción
@@ -67,16 +65,25 @@ Cada uno de los arboles en esta zona determinada que sobrepasan  10mm de diametr
 
 (Ver tabla \ref{tab:tabla_de_abundancia} y figura \ref{fig:abun_sp_q})
 
-```{r, echo=FALSE}
-knitr::kable(abun_sp,
-             caption = "\\label{tab:tabla_de_abundancia}Abundancia por especie de la familia Euphorbiaceae")
-```
+
+Table: \label{tab:tabla_de_abundancia}Abundancia por especie de la familia Euphorbiaceae
+
+Latin                         n
+------------------------  -----
+Acalypha diversifolia      1023
+Croton billbergianus        631
+Alchornea costaricensis     316
+Adelia triloba              143
+Hieronyma alchorneoides     118
+Hura crepitans               95
+Acalypha macrostachya        52
+Sapium glandulosum           40
+Sapium broadleaf              2
+Alchornea latifolia           1
 
 
 
-```{r, echo=FALSE, fig.cap="\\label{fig:abun_sp_q}Abundancia por especie por quadrat"}
-abun_sp_q
-```
+![\label{fig:abun_sp_q}Abundancia por especie por quadrat](manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf) 
 
 (ver figura \ref{fig:cuadro_de_riqueza_familia}Riqueza por familia)
 
