@@ -44,8 +44,8 @@ source("análisis.R", local = knitr::knit_global())
   Euphorbiaceae es una familia cosmopólita aunque con mayor concentración en regiones tropicales (Heywood, 1985),a menudo se les cita como una evolución convergente de las cactaceas por el parentezco que algunas especies presentan con esta familia.
 Las Euphorbiaceae presentas una variedad de 17 modelos de creciemientos segun los modelos de Halle, presentas caracteristicas unicas, como una estructura que recubre las semillas de esta familia dejando fuera la idea de origen polifilético de las Euphorbiaceaes.
 
-Estudiaremos la presencia de esta familia en Barro Colorado desde la perspectiva de abundancia, riqueza, distribución y determinación de patrones, dίgase posible tendencia de ordenación.
-Para lograr esto, nos apoyaremos en datos que ofrece BCI, en especial, ecologίa numericde las plantas. 
+Estudiaremos la presencia de esta familia en Barro Colorado desde la perspectiva de abundancia, riqueza, distribución y determinación de patrones, digase posible tendencia de ordenación.
+Para lograr esto, nos apoyaremos en datos que ofrece BCI, en especial, ecologia numerica de las plantas. 
 Esto constribuira a la construccion de nuevas informaciones y saberes de esta familia,  distribucion, factores ambientales de pesencia ausencia y comportamiento en los micro habitad o micro climas de la zona, etc.
  
 
@@ -79,7 +79,7 @@ Recordando que nos basamos en una parcela de 50 hectáreas, previamenete denomin
 abun_sp_q
 ```
 
-Desde otra perspectiva, tambien se presentan la riqueza por cuadrículas en un mapa interactivo pero las especies no estan ordenadas  de forma longitudinal, mas bien de desde el esquema original de trabajo, pero coincidiendo en parte con la temática anterior donde la intensidad del color refleja mayor abundancia, y donde cada cuadricula posse el nύmero de individuos encontrados en esa zona. Antes de pasar el mapa interactivo aclarar que de forma porvechosa este proyecta el relieve de la zona donde esta ubicada la parcela de trabajo, lo que abre una puerta a mas factores determinantes  que influyen el la presencia, distribución y riqueza de las especies, Por qué? pues recordemos que la variación del relieve influye directamente el clima, humedad, suelo, temperarura y muchos mas factores que son imprescindibles para la presencia de ciertas especies, esto a aplica para todo ser vivo, no de forma exlusiva a Euphorbiaceae.
+Desde otra perspectiva, tambien se presentan la riqueza por cuadrículas en un mapa interactivo pero las especies no estan ordenadas  de forma longitudinal, mas bien de desde el esquema original de trabajo, pero coincidiendo en parte con la temática anterior donde la intensidad del color refleja mayor abundancia, y donde cada cuadricula posse el numero de individuos encontrados en esa zona. Antes de pasar el mapa interactivo aclarar que de forma porvechosa este proyecta el relieve de la zona donde esta ubicada la parcela de trabajo, lo que abre una puerta a mas factores determinantes  que influyen el la presencia, distribución y riqueza de las especies, Por qué? pues recordemos que la variación del relieve influye directamente el clima, humedad, suelo, temperarura y muchos mas factores que son imprescindibles para la presencia de ciertas especies, esto a aplica para todo ser vivo, no de forma exlusiva a Euphorbiaceae.
 
 (ver figura \ref{fig:cuadro_de_riqueza_familia}Riqueza por familia)
 
