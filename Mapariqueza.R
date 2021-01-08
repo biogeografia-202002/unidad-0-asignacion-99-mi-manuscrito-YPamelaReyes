@@ -105,3 +105,4 @@ mapa_cuadros_riq_mi_familia <- mapView(
     zoom = 15)
 mapa_cuadros_riq_mi_familia
 mapa_cuadros_riq_mi_familia %>% mapshot(file = 'mapa_cuadros_riq_mi_familia.png')
+

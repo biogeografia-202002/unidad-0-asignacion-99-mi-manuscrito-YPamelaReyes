@@ -100,12 +100,12 @@ dev.off() #NO OLVIDAR ESTA IMPORTANTE SENTENCIA
 
 p_cor_geomorf_ar <- env_num %>%
   dplyr::select(-matches('^[A-T,Z]|pH', ignore.case = F)) %>%
-  ezCorM(r_size_lims = c(4,8), label_size = 3, method = 'pearson')
+  ezCorM(r_size_lims = c(5,6), label_size = 2, method = 'pearson')
 p_cor_geomorf_ar
 
 p_cor_geomorf_ar_spearman <- env_num %>%
   dplyr::select(-matches('^[A-T,Z]|pH', ignore.case = F)) %>%
-  ezCorM(r_size_lims = c(4,8), label_size = 3, method = 'spearman')
+  ezCorM(r_size_lims = c(5,6), label_size = 2, method = 'spearman')
 p_cor_geomorf_ar_spearman
 
 png(

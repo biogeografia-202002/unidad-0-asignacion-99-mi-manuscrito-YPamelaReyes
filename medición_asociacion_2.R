@@ -66,7 +66,7 @@ coldiss(mi_fam_d_hel, diag = T)
 #' 
 png(
   filename = 'matriz_disimilaridad_hellinger.png',
-  width = 2400, height = 1200, pointsize = 32
+  width = 2400, height = 1200, pointsize = 50
 )
 coldiss(mi_fam_d_hel, diag = T)
 dev.off()
