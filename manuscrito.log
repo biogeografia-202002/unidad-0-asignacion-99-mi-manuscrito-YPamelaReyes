@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  8 JAN 2021 01:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.17)  8 JAN 2021 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -712,226 +712,212 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<mapa_cuadros.png, id=45, 995.72pt x 762.85pt>
+<mapa_cuadros.png, id=58, 995.72pt x 762.85pt>
 File: mapa_cuadros.png Graphic file (type png)
 <use mapa_cuadros.png>
 Package pdftex.def Info: mapa_cuadros.png  used on input line 263.
 (pdftex.def)             Requested size: 469.7661pt x 359.90144pt.
 [2]
-<manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf, id=57, 459.7175pt x 107.4
+<manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf, id=70, 459.7175pt x 107.4
 0125pt>
 File: manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file (type pd
 f)
 <use manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf>
 Package pdftex.def Info: manuscrito_files/figure-latex/unnamed-chunk-3-1.pdf  u
-sed on input line 329.
+sed on input line 331.
 (pdftex.def)             Requested size: 459.72337pt x 107.4026pt.
-<mapa_cuadros_riq_mi_familia.png, id=60, 995.72pt x 762.85pt>
+<mapa_cuadros_riq_mi_familia.png, id=73, 995.72pt x 762.85pt>
 File: mapa_cuadros_riq_mi_familia.png Graphic file (type png)
 <use mapa_cuadros_riq_mi_familia.png>
-Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 35
-9.
+Package pdftex.def Info: mapa_cuadros_riq_mi_familia.png  used on input line 36
+0.
 (pdftex.def)             Requested size: 234.87544pt x 179.9449pt.
-<mapa_cuadros_riq_global.png, id=62, 995.72pt x 762.85pt>
+<mapa_cuadros_riq_global.png, id=75, 995.72pt x 762.85pt>
 File: mapa_cuadros_riq_global.png Graphic file (type png)
 <use mapa_cuadros_riq_global.png>
-Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 378.
+Package pdftex.def Info: mapa_cuadros_riq_global.png  used on input line 379.
 (pdftex.def)             Requested size: 234.87544pt x 179.9449pt.
-<mapa_cuadros_abun_global.png, id=64, 995.72pt x 762.85pt>
+<mapa_cuadros_abun_global.png, id=77, 995.72pt x 762.85pt>
 File: mapa_cuadros_abun_global.png Graphic file (type png)
 <use mapa_cuadros_abun_global.png>
-Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 393.
+Package pdftex.def Info: mapa_cuadros_abun_global.png  used on input line 394.
 (pdftex.def)             Requested size: 422.78796pt x 323.91014pt.
 [3] [4 <./mapa_cuadros.png> <./manuscrito_files/figure-latex/unnamed-chunk-3-1.
 pdf>] [5 <./mapa_cuadros_riq_mi_familia.png> <./mapa_cuadros_riq_global.png>] [
 6 <./mapa_cuadros_abun_global.png>]
-<mapa_cuadros_abun_mi_familia.png, id=97, 995.72pt x 762.85pt>
+<mapa_cuadros_abun_mi_familia.png, id=110, 995.72pt x 762.85pt>
 File: mapa_cuadros_abun_mi_familia.png Graphic file (type png)
 <use mapa_cuadros_abun_mi_familia.png>
 Package pdftex.def Info: mapa_cuadros_abun_mi_familia.png  used on input line 4
-14.
+15.
 (pdftex.def)             Requested size: 399.2989pt x 305.91449pt.
-<suelo_ph_abun_riqu.png, id=99, 352.31625pt x 300.3722pt>
+<suelo_ph_abun_riqu.png, id=112, 352.31625pt x 300.3722pt>
 File: suelo_ph_abun_riqu.png Graphic file (type png)
 <use suelo_ph_abun_riqu.png>
-Package pdftex.def Info: suelo_ph_abun_riqu.png  used on input line 429.
+Package pdftex.def Info: suelo_ph_abun_riqu.png  used on input line 430.
 (pdftex.def)             Requested size: 352.31538pt x 300.37144pt.
-<geo_pearson.png, id=101, 715.17188pt x 633.86812pt>
+<geo_pearson.png, id=114, 715.17188pt x 633.86812pt>
 File: geo_pearson.png Graphic file (type png)
 <use geo_pearson.png>
-Package pdftex.def Info: geo_pearson.png  used on input line 450.
+Package pdftex.def Info: geo_pearson.png  used on input line 452.
 (pdftex.def)             Requested size: 469.75598pt x 416.35214pt.
-
-LaTeX Warning: Reference `spearman' on page 7 undefined on input line 458.
-
-<spearman.png, id=102, 715.17188pt x 633.86812pt>
+<spearman.png, id=116, 715.17188pt x 633.86812pt>
 File: spearman.png Graphic file (type png)
 <use spearman.png>
-Package pdftex.def Info: spearman.png  used on input line 462.
+Package pdftex.def Info: spearman.png  used on input line 468.
 (pdftex.def)             Requested size: 469.75598pt x 416.35214pt.
-
-LaTeX Warning: Reference `fig:matriz_disimilaridad_hellinger' on page 7 undefin
-ed on input line 474.
-
 [7 <./mapa_cuadros_abun_mi_familia.png>] [8 <./suelo_ph_abun_riqu.png (PNG copy
 )>] [9 <./geo_pearson.png (PNG copy)>] [10 <./spearman.png (PNG copy)>]
-<diss_hellinger.png, id=126, 1129.21875pt x 1000.48781pt>
+<diss_hellinger.png, id=140, 1129.21875pt x 1000.48781pt>
 File: diss_hellinger.png Graphic file (type png)
 <use diss_hellinger.png>
-Package pdftex.def Info: diss_hellinger.png  used on input line 493.
+Package pdftex.def Info: diss_hellinger.png  used on input line 504.
 (pdftex.def)             Requested size: 469.75426pt x 416.20227pt.
 [11 <./diss_hellinger.png (PNG copy)>]
-<diss_jaccard.png, id=133, 1091.57813pt x 967.36406pt>
+<diss_jaccard.png, id=147, 1091.57813pt x 967.36406pt>
 File: diss_jaccard.png Graphic file (type png)
 <use diss_jaccard.png>
-Package pdftex.def Info: diss_jaccard.png  used on input line 511.
+Package pdftex.def Info: diss_jaccard.png  used on input line 532.
 (pdftex.def)             Requested size: 469.75253pt x 416.29793pt.
 [12 <./diss_jaccard.png (PNG copy)>]
-<punt_z.png, id=141, 1129.21875pt x 1000.48781pt>
+<punt_z.png, id=155, 1129.21875pt x 1000.48781pt>
 File: punt_z.png Graphic file (type png)
 <use punt_z.png>
-Package pdftex.def Info: punt_z.png  used on input line 562.
+Package pdftex.def Info: punt_z.png  used on input line 591.
 (pdftex.def)             Requested size: 469.75426pt x 416.20227pt.
+[13] [14 <./punt_z.png (PNG copy)>]
 
-LaTeX Warning: Reference `fig:asoc_esp_no_sitio' on page 13 undefined on input 
-line 578.
+LaTeX Warning: Reference `fig:asoc_esp_no_sitio' on page 15 undefined on input 
+line 620.
 
-<asoc_esp_no_sitio.png, id=142, 677.53125pt x 599.99156pt>
+<asoc_esp_no_sitio.png, id=167, 677.53125pt x 599.99156pt>
 File: asoc_esp_no_sitio.png Graphic file (type png)
 <use asoc_esp_no_sitio.png>
-Package pdftex.def Info: asoc_esp_no_sitio.png  used on input line 582.
+Package pdftex.def Info: asoc_esp_no_sitio.png  used on input line 624.
 (pdftex.def)             Requested size: 469.77148pt x 416.00876pt.
-
-Overfull \hbox (5.23932pt too wide) in paragraph at lines 586--597
-\T1/ppl/m/n/10.95 en-tre es-pecies no sitio. Tam-bién nos mues-tra un clus-ter 
-de es-pecies que se cor-rela-cio-nan, guardando
- []
-
-[13] [14 <./punt_z.png (PNG copy)>] [15 <./asoc_esp_no_sitio.png (PNG copy)>]
-<PCA_1.png, id=160, 1445.4pt x 1166.10657pt>
+[15 <./asoc_esp_no_sitio.png (PNG copy)>]
+<PCA_1.png, id=174, 1445.4pt x 1166.10657pt>
 File: PCA_1.png Graphic file (type png)
 <use PCA_1.png>
-Package pdftex.def Info: PCA_1.png  used on input line 627.
+Package pdftex.def Info: PCA_1.png  used on input line 658.
 (pdftex.def)             Requested size: 469.74944pt x 378.98015pt.
 [16 <./PCA_1.png (PNG copy)>]
-<Biplot_pca1_pca2.png, id=167, 1204.5pt x 971.12813pt>
+<Biplot_pca1_pca2.png, id=181, 1204.5pt x 971.12813pt>
 File: Biplot_pca1_pca2.png Graphic file (type png)
 <use Biplot_pca1_pca2.png>
-Package pdftex.def Info: Biplot_pca1_pca2.png  used on input line 665.
+Package pdftex.def Info: Biplot_pca1_pca2.png  used on input line 694.
 (pdftex.def)             Requested size: 469.75311pt x 378.73845pt.
 [17 <./Biplot_pca1_pca2.png (PNG copy)>]
-<cluster_pca.png, id=174, 639.89063pt x 515.67656pt>
+<cluster_pca.png, id=188, 639.89063pt x 515.67656pt>
 File: cluster_pca.png Graphic file (type png)
 <use cluster_pca.png>
-Package pdftex.def Info: cluster_pca.png  used on input line 682.
+Package pdftex.def Info: cluster_pca.png  used on input line 711.
 (pdftex.def)             Requested size: 469.7623pt x 378.57314pt.
-<quebrada_especie.png, id=176, 677.53125pt x 546.54187pt>
+<quebrada_especie.png, id=190, 677.53125pt x 546.54187pt>
 File: quebrada_especie.png Graphic file (type png)
 <use quebrada_especie.png>
-Package pdftex.def Info: quebrada_especie.png  used on input line 699.
+Package pdftex.def Info: quebrada_especie.png  used on input line 728.
 (pdftex.def)             Requested size: 469.77148pt x 378.94899pt.
-<biplot_especie.png, id=178, 752.8125pt x 606.76688pt>
+<biplot_especie.png, id=192, 752.8125pt x 606.76688pt>
 File: biplot_especie.png Graphic file (type png)
 <use biplot_especie.png>
-Package pdftex.def Info: biplot_especie.png  used on input line 708.
+Package pdftex.def Info: biplot_especie.png  used on input line 737.
 (pdftex.def)             Requested size: 469.77148pt x 378.63582pt.
 [18 <./cluster_pca.png (PNG copy)>] [19 <./quebrada_especie.png (PNG copy)>] [2
 0 <./biplot_especie.png (PNG copy)>]
-<suelo_especie.png, id=196, 564.60938pt x 455.45157pt>
+<suelo_especie.png, id=210, 564.60938pt x 455.45157pt>
 File: suelo_especie.png Graphic file (type png)
 <use suelo_especie.png>
-Package pdftex.def Info: suelo_especie.png  used on input line 735.
-(pdftex.def)             Requested size: 469.76286pt x 378.94205pt.
-<variables_numericas.png, id=199, 564.60938pt x 455.45157pt>
-File: variables_numericas.png Graphic file (type png)
-<use variables_numericas.png>
-Package pdftex.def Info: variables_numericas.png  used on input line 755.
+Package pdftex.def Info: suelo_especie.png  used on input line 768.
 (pdftex.def)             Requested size: 469.76286pt x 378.94205pt.
 [21 <./suelo_especie.png (PNG copy)>]
-<AC.png, id=206, 677.53125pt x 546.54187pt>
+<variables_numericas.png, id=218, 564.60938pt x 455.45157pt>
+File: variables_numericas.png Graphic file (type png)
+<use variables_numericas.png>
+Package pdftex.def Info: variables_numericas.png  used on input line 788.
+(pdftex.def)             Requested size: 469.76286pt x 378.94205pt.
+[22 <./variables_numericas.png (PNG copy)>]
+<AC.png, id=225, 677.53125pt x 546.54187pt>
 File: AC.png Graphic file (type png)
 <use AC.png>
-Package pdftex.def Info: AC.png  used on input line 785.
+Package pdftex.def Info: AC.png  used on input line 818.
 (pdftex.def)             Requested size: 469.77148pt x 378.94899pt.
-[22 <./variables_numericas.png (PNG copy)>] [23 <./AC.png (PNG copy)>]
-<biplot_ca.png, id=219, 752.8125pt x 573.64313pt>
+[23 <./AC.png (PNG copy)>]
+<biplot_ca.png, id=233, 752.8125pt x 573.64313pt>
 File: biplot_ca.png Graphic file (type png)
 <use biplot_ca.png>
-Package pdftex.def Info: biplot_ca.png  used on input line 821.
+Package pdftex.def Info: biplot_ca.png  used on input line 854.
 (pdftex.def)             Requested size: 469.77148pt x 357.96587pt.
-<PCoA.png, id=221, 639.89063pt x 515.67656pt>
+[24 <./biplot_ca.png (PNG copy)>]
+<PCoA.png, id=240, 639.89063pt x 515.67656pt>
 File: PCoA.png Graphic file (type png)
 <use PCoA.png>
-Package pdftex.def Info: PCoA.png  used on input line 853.
+Package pdftex.def Info: PCoA.png  used on input line 886.
 (pdftex.def)             Requested size: 469.7623pt x 378.57314pt.
-[24] [25 <./biplot_ca.png (PNG copy)>] [26 <./PCoA.png (PNG copy)>]
-<RDA1_euclidea.png, id=238, 639.89063pt x 515.67656pt>
+[25 <./PCoA.png (PNG copy)>]
+<RDA1_euclidea.png, id=248, 639.89063pt x 515.67656pt>
 File: RDA1_euclidea.png Graphic file (type png)
 <use RDA1_euclidea.png>
-Package pdftex.def Info: RDA1_euclidea.png  used on input line 897.
+Package pdftex.def Info: RDA1_euclidea.png  used on input line 931.
 (pdftex.def)             Requested size: 469.7623pt x 378.57314pt.
-[27 <./RDA1_euclidea.png (PNG copy)>]
-<RDA.png, id=245, 639.89063pt x 515.67656pt>
+[26 <./RDA1_euclidea.png (PNG copy)>]
+<RDA.png, id=255, 639.89063pt x 515.67656pt>
 File: RDA.png Graphic file (type png)
 <use RDA.png>
-Package pdftex.def Info: RDA.png  used on input line 915.
+Package pdftex.def Info: RDA.png  used on input line 949.
 (pdftex.def)             Requested size: 469.7623pt x 378.57314pt.
-<PCA_RDA.png, id=247, 639.89063pt x 566.86781pt>
+<PCA_RDA.png, id=257, 639.89063pt x 566.86781pt>
 File: PCA_RDA.png Graphic file (type png)
 <use PCA_RDA.png>
-Package pdftex.def Info: PCA_RDA.png  used on input line 936.
+Package pdftex.def Info: PCA_RDA.png  used on input line 970.
 (pdftex.def)             Requested size: 469.7623pt x 416.15413pt.
-[28 <./RDA.png (PNG copy)>] [29 <./PCA_RDA.png (PNG copy)>]
-<CCA.png, id=259, 639.89063pt x 566.86781pt>
+[27 <./RDA.png (PNG copy)>] [28 <./PCA_RDA.png (PNG copy)>]
+<CCA.png, id=269, 639.89063pt x 566.86781pt>
 File: CCA.png Graphic file (type png)
 <use CCA.png>
-Package pdftex.def Info: CCA.png  used on input line 957.
+Package pdftex.def Info: CCA.png  used on input line 992.
 (pdftex.def)             Requested size: 469.7623pt x 416.15413pt.
-<no_raras.png, id=261, 639.89063pt x 566.86781pt>
+[29 <./CCA.png (PNG copy)>]
+<no_raras.png, id=276, 639.89063pt x 566.86781pt>
 File: no_raras.png Graphic file (type png)
 <use no_raras.png>
-Package pdftex.def Info: no_raras.png  used on input line 974.
+Package pdftex.def Info: no_raras.png  used on input line 1015.
 (pdftex.def)             Requested size: 469.7623pt x 416.15413pt.
-[30 <./CCA.png (PNG copy)>] [31 <./no_raras.png (PNG copy)>]
-Overfull \hbox (14.65283pt too wide) in paragraph at lines 982--990
-\T1/ppl/m/n/10.95 VIDES, QUE LA OR-DE-NACIÓN RE-STRINGIDA DE-BERÍA SER CON-SIS-
-TENTE CON ESTE ANÁLI-
- []
-
+[30 <./no_raras.png (PNG copy)>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 1002.
-[32]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1044.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1044.
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 1066.
+[31] [32]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1144.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1144.
 (./manuscrito.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1044.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1044.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1144.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1144.
 
 Package rerunfilecheck Info: File `manuscrito.out' has not changed.
-(rerunfilecheck)             Checksum: 801573542BFB6FDEF17D3AC28872E929;910.
+(rerunfilecheck)             Checksum: DCFD7D67F75BBD1BEF4A92651ADAC00F;1583.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1044.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1144.
  ) 
 Here is how much of TeX's memory you used:
- 10341 strings out of 492982
- 145060 string characters out of 6134896
- 221515 words of memory out of 5000000
- 13726 multiletter control sequences out of 15000+600000
+ 10351 strings out of 492982
+ 145233 string characters out of 6134896
+ 221883 words of memory out of 5000000
+ 13731 multiletter control sequences out of 15000+600000
  18539 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,31p,328b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,6n,31p,350b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palati
 no/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on manuscrito.pdf (32 pages, 3253123 bytes).
+Output written on manuscrito.pdf (32 pages, 3260003 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
- 246 compressed objects within 3 object streams
- 75 named destinations out of 1000 (max. 500000)
- 205 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 339 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 229 words of extra memory for PDF output out of 10000 (max. 10000000)
 
