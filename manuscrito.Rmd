@@ -14,7 +14,27 @@ title: |
 author:
 - name: Yeiny Pamela Reyes Z.
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
-abstract: "Mi resumen"
+abstract: "Los censos son una gran herramientas que   pueden servir de insumo para profundizar en estudios sobre la ecología de la comunidad, tales como: asociación de variables ambientales y su relación con patrones espaciales/temporales (e.g. influencia de la edafología y la geomorfología en la abundancia y distribución de especies),así como para conocer y tratar de entender comportamientos de especies raras, entre otros aspectos. . Es por eso que desde hace ya 40 años(referencia actual 2020) en Barro Colorado se inició un proyecto a cargo del Instituto Smithsonian de Investigaciones Tropicales o STRI por sus siglas en inglés, el cual consiste en un censo  para estudiar la composición florística del bosque tropical, en este censo que se repite cada 5 años, cada árbol de la zona de trabajo(una parcela de 50 hectáreas) ,  que sobrepasan  10 mm de diámetro será medido, marcado, mapeado y recensado cada 5 años con técnicas estandarizadas dispuestas a cualquier ciencia que quiera hacer uso de estas. 
+En esta ocasión, este manuscrito está enfocado a una de las diversas familias presentes en este lugar, Euphorbiaceae, familia considerada cosmopolita,  aunque con mayor concentración en regiones tropicales  (Heywood, 1985), a menudo se le cita como una evolución convergente de las cactáceas por el parentesco que algunas especies presentan con esta familia.
+Conoceremos su diversidad, distribución, ecología espacial, ordenación, asociación a variables descriptivas, etc.
+Dicha información la obtendremos de los  datos que ofrece BCI, en especial, ecología numérica de las plantas, datos que serán procesados a través de los siguientes análisis:
+Análisis exploratorio de datos. Riqueza y abundancia.
+Análisis exploratorio de datos. Mapas de riqueza y abundancia global y de mi familia.
+Correlación entre variables ambientales.
+Medición asociación 2 (Modo Q aplicado a mi familia asignada).
+Medición asociación 3 (Modo R aplicado a mi familia asignada).
+Técnicas de ordenación restringida o canónica.
+Técnicas de ordenación no restringida.
+Estos análisis evidenciaron que la familia  Euphorbiaceae posee una distribución homogénea en la parcela, que la abundancia de la misma está relacionada con la riqueza global.
+Tanto las especies a nivel global como las de Euphorbiaceae, presentan un patrón espacial aglomerado en algunos casos insinuando el mismo patrón de distribución de determinadas variables ambientales.
+Los análisis de correlación según Pearson destacó una relación positiva y significativa entre la abundancia de Euphorbiaceae y el hierro  pero no así con la riqueza.
+Al analizar una matriz de distancia euclídea calculada a partir de la matriz de comunidad transformada al método de Hellinger, la parcela muestra un 91.7% de similaridad o especies compartidas, en otras palabras la riqueza de especies por cuadrículas es bastante homogénea. 
+La heterogeneidad ambiental basada en la topografía desde una matriz mixta con variables Old High (bosque viejo en relieve alto), Old Low (bosque en vertiente baja), Old Slope (bosque relieve bajo), Swamp (bosque en área encharcable) y Young(bosque joven), reveló que el tipo de bosque más destacado fue Old Low, presente en 26 de las 50 cuadrículas y Swamp junto a Young fueron los menos abundantes. La presencia de estos tipos de bosques por cuadrículas, en especial Old Low, están geográficamente contiguos, lo que nos ayuda a explicar la diversidad *beta* presente en las cuadrículas la cual se muestra muy homogénea.
+Las técnicas de ordenación nos revelaron que al menos en las técnicas de ordenación no restringidas, el pH, P y N, son los componentes de silos más abundantes, según PCA, pero que elementos como Fe y Al están presentes en casi el 50% de los sitios. Este análisis también nos reveló asociaciones entre variables descriptivas como B y Al, Cu, Mn y Fe, entre otros. 
+Las especies *Acalypha diversifolia*, *Croton billbergianis* y *Adelia triloba* tiene cierta tendencia a ser especialistas.
+Según la técnica canónica, los elementos que destacan en el RDA son el Al, P, por su relación a ciertos sitios y especies, que los elementos Ca, B, N y PH están asociadas entre sí.
+Desde la perspectiva del CCA, el Al guarda una relación inversa con el N y el pH, los que a su vez se relacionan entre sí formando un pequeño clúster junto al B.
+Estos son solo algunos de los resultados obtenidos, y ya que nuestras variables descriptivas no son estándares estos resultados pueden mostrar variación. El hecho que el censo se repite cada 5 años, nos indica que nuestra información de soporte, los datos procesados en los diversos análisis están sujetos a cambios dependientes de las condiciones ambientales de la parcela con el paso del tiempo, entre otros factores."
 keywords: "Euphorbiaceae, Abundancia,diversidad,ordenación"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
