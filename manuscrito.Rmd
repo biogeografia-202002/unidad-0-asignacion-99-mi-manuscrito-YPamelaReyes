@@ -10,7 +10,7 @@ output:
 title: | 
         | Diversidad, ecología espacial y ordenación de la familia Euphorbeaceae en Isla Barro Colorado, Panama (2010) 
         | 
-        | Subtítulo
+        |
 author:
 - name: Yeiny Pamela Reyes Z.
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
