@@ -294,7 +294,7 @@ Al procesar los datos de nuestra familia a través diversos análisis, nos ayuda
 Estos datos pueden servir de apoyo para cualquier investigación a futuro. 
 
 Las variables ambientales, de suelo y geomorfológicas nos muestran que que tan variado puede ver el comportamiento de las especies que están asociadas a las variables y estas a su vez nos servirán para predecir la presencia o ciertos patrones de Euphorbiaceae en otros escenarios, siendo esto uno de los principales aportes de este análisis al estudio de esta familia.
-Aunque los análisis desarrollados en este proceso, nos mostrará de la mejor forma posibles las diversas informaciones de esta familia, las  variables no son estándar, con el paso del tiempo, el clima, la geomorfología, los minerales, todo está propenso a variar lo que implica que estos mismos análisis aplicados a esta familia dentro de 10 años por suponer algo, serán muy diferentes a los resultados que obtuvimos acá.
+Aunque los análisis desarrollados en este proceso, nos mostrará de la mejor forma posibles las diversas informaciones de esta familia, las  variables no son estándar, con el paso del tiempo, el clima, la geomorfología, los minerales, todo está propenso a variar y mas por el hecho de que cada 5 años en censo se vuelve a realizar, lo que implica mayor variación en los datos y que estos mismos análisis aplicados a esta familia dentro de 10 años por suponer algo, serán muy diferentes a los resultados que obtuvimos acá.
 
 
 
